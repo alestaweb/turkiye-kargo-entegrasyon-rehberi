@@ -198,6 +198,8 @@ Müşteriye sipariş anında gösterilen kargo ücreti ile firmanın size fatura
 arasındaki fark, zamanla görünmez bir zarar kalemine dönüşür. Aylık olarak **tahmini
 ve gerçekleşen desi** karşılaştırması raporlanmalıdır.
 
+Satıcı tarafındaki paketleme ve ölçüm hataları için: [Kargoda desi hesabı ve paketleme: 12 hata](docs/desi-ve-paketleme-12-hata.md)
+
 ### Ücretsiz kargo eşiği
 
 "X TL üzeri kargo bedava" kuralında eşiğin hangi tutara uygulandığı net olmalıdır:
