@@ -498,6 +498,14 @@ mevzuat metni, kargo firmasıyla yapılan sözleşme ve firmanın güncel entegr
 
 Eksik gördüğünüz, güncelliğini yitirmiş veya yanlış bulduğunuz bir madde varsa issue açın.
 
+## Makaleler
+
+Rehberi tamamlayan, tek konuya odaklanan yazılar:
+
+- [Kargoda desi hesabı ve paketleme: satıcının sık yaptığı 12 hata](docs/desi-ve-paketleme-12-hata.md)
+
+---
+
 ## Lisans
 
 MIT — serbestçe kullanın, çoğaltın, alıntılayın.
