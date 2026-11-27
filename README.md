@@ -17,6 +17,8 @@ firmasına bağlı değildir; her entegrasyonda aynı sorular çıkar.
 Hazırlayan: [Alesta WEB](https://alestaweb.com) — 2004'ten beri haber yazılımı ve
 e-ticaret yazılımı geliştiriyor.
 
+Son güncelleme: 2026-11-27
+
 ---
 
 ## İçindekiler
@@ -40,6 +42,7 @@ e-ticaret yazılımı geliştiriyor.
 17. Test ortamı ve canlıya geçiş
 18. 20 maddelik değerlendirme kontrol listesi
 19. İlgili rehberler ve resmî kaynaklar
+20. Makaleler
 
 ---
 
@@ -351,6 +354,8 @@ edilecekler:
   sayfasına götürmelidir; hem tutarlı bir deneyim sunar hem de firma değiştiğinde
   bağlantılar kırılmaz.
 
+Mesaj içeriği için örnekli anlatım: [Kargo takip e-postası ve SMS'te müşteriye ne yazılmalı?](docs/kargo-bildirim-eposta-ve-sms.md)
+
 ---
 
 ## 13. Kişisel veri: alıcı bilgisi kargo firmasına gider
@@ -500,10 +505,11 @@ mevzuat metni, kargo firmasıyla yapılan sözleşme ve firmanın güncel entegr
 
 Eksik gördüğünüz, güncelliğini yitirmiş veya yanlış bulduğunuz bir madde varsa issue açın.
 
-## Makaleler
+## 20. Makaleler
 
 Rehberi tamamlayan, tek konuya odaklanan yazılar:
 
+- [Kargo takip e-postası ve SMS'te müşteriye ne yazılmalı?](docs/kargo-bildirim-eposta-ve-sms.md) — dört bildirim anı, teslim edilemedi mesajı, İYS sınırı, 10 hata ve kontrol listesi
 - [Kargoda desi hesabı ve paketleme: satıcının sık yaptığı 12 hata](docs/desi-ve-paketleme-12-hata.md)
 
 ---
